@@ -1,5 +1,5 @@
 flaskenv
 .vscode
 .pyc
-
+.db
 __pycache__
